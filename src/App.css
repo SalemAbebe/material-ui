@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+hr {
+  background-color: white;
+  border-style: none;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
